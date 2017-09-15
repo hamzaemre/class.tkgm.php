@@ -13,5 +13,10 @@
     "require": {
       "php": ">=5.3",
         "ext-curl": "*"
+    },
+    "autoload": {
+        "files": [
+            "class.tkgm.php"
+        ]
     }
 }
