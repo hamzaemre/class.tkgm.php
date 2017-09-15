@@ -1,0 +1,17 @@
+{
+    "name": "hamzaemre/class.tkgm.php",
+    "description": "cURL ile parsel sorgulama yapabilen basit bir PHP Sınıfıdır.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hamza Emre",
+            "email": "hamzaemre0@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      "php": ">=5.3",
+        "ext-curl": "*"
+    }
+}
