@@ -1,6 +1,11 @@
 # class.tkgm.php
 cURL ile parsel sorgulama yapabilen basit bir PHP Sınıfıdır.
 
+# Kurulum
+```
+composer require hamzaemre/class.tkgm.php
+```
+
 # Örnek kullanımı
 ### Diğer örnekleri proje içerisinde inceleyebilirsiniz.
 ```php
