@@ -10,9 +10,6 @@
  * @version 1.0
  */
 
-/**
- *
- */
 class ParselSorgulama
 {
 
